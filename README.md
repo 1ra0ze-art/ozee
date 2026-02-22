@@ -1,2 +1,0 @@
-# ozee
-We create dreamz
