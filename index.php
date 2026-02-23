@@ -218,7 +218,7 @@
       <h2 class="section-title">My CV</h2>
 
       <div class="cv-wrapper">
-        <!-- Download button -->
+        2 Download button -->
         <a href="cv/Irakoze_Fredy_CV.pdf" download class="btn-primary">
           ⬇ Download CV
         </a>
